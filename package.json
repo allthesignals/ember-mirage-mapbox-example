@@ -25,7 +25,9 @@
     "broccoli-merge-trees": "^3.0.0",
     "ember-cli-babel": "^6.6.0",
     "ember-cli-htmlbars": "^2.0.1",
-    "ember-wormhole": "^0.5.1"
+    "ember-wormhole": "^0.5.1",
+    "fake-xml-http-request": "NYCPlanning/FakeXMLHttpRequest",
+    "pretender": "NYCPlanning/pretender"
   },
   "devDependencies": {
     "ember-cli": "~3.1.4",
@@ -34,7 +36,7 @@
     "ember-cli-eslint": "^4.2.1",
     "ember-cli-htmlbars-inline-precompile": "^1.0.0",
     "ember-cli-inject-live-reload": "^1.4.1",
-    "ember-cli-mirage": "0.4.7",
+    "ember-cli-mirage": "NYCPlanning/ember-cli-mirage",
     "ember-cli-qunit": "^4.1.1",
     "ember-cli-shims": "^1.2.0",
     "ember-disable-prototype-extensions": "^1.1.2",
@@ -51,7 +53,9 @@
     "eslint-plugin-ember": "^5.0.1",
     "eslint-plugin-node": "^6.0.1",
     "loader.js": "^4.2.3",
-    "mapbox-gl": "^0.45.0"
+    "mapbox-gl": "^0.45.0",
+    "fake-xml-http-request": "NYCPlanning/FakeXMLHttpRequest",
+    "pretender": "NYCPlanning/pretender"
   },
   "peerDependencies": {
     "mapbox-gl": ">=0.38"

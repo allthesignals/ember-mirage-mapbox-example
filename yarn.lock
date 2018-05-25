@@ -5134,7 +5134,7 @@ preserve@^0.2.0:
 
 pretender@NYCPlanning/pretender:
   version "2.0.0"
-  resolved "https://codeload.github.com/NYCPlanning/pretender/tar.gz/73f43c695a5cba591556718eff1847b1215f3dd8"
+  resolved "https://codeload.github.com/NYCPlanning/pretender/tar.gz/c0c91963777bd8879caea511b323ec43a91cba14"
   dependencies:
     fake-xml-http-request NYCPlanning/FakeXMLHttpRequest
     route-recognizer "^0.3.3"
